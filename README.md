@@ -9,7 +9,7 @@ Aquí encontrarás tanto los **videos de referencia** como la **documentación t
 
 | 📺 Videos | 📖 Documentación |
 |-----------|-----------------|
-| [Acceder a los videos](https://drive.google.com/drive/folders/1tTYRMP-oK84LAq3tGPE3ZgotPgABeXFV?usp=drive_link) | [Acceder a la documentación](https://drive.google.com/file/d/1cZdO1jzAtx07pkgKjOdc3WN3JZrFs8_W/view?usp=sharing) |
+| [Acceder a los videos](https://drive.google.com/drive/folders/1tTYRMP-oK84LAq3tGPE3ZgotPgABeXFV?usp=drive_link) | [Acceder a la documentación](https://drive.google.com/file/d/1cZdO1jzAtx07pkgKjOdc3WN3JZrFs8_W/view?usp=drive_link) |
 
 ---
 
